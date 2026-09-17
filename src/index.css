@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@font-face {
+    font-family: "Brittany Signature";
+    src: url("./assets/brittany_signature/BrittanySignature.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@theme {
+    --font-brittany: "Brittany Signature", cursive;
+    --font-display: "Cormorant Garamond", serif;
+    --font-montserrat: "Montserrat", sans-serif;
+    --color-primary: #8B5CF6;
+    --color-primary-dark: #6D28D9;
+    --color-primary-light: #C4B5FD;
+    --color-primary-pale: #EDE9FE;
+    --color-ink: #111111;
+}
