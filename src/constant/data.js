@@ -17,6 +17,9 @@ export const photos = [
     { src: "/gallery/8.png", alt: "Souvenir 8", span: "row-span-2" },
     { src: "/gallery/9.png", alt: "Souvenir 9", span: "row-span-2" },
     { src: "/gallery/10.png", alt: "Souvenir 10", span: "row-span-2" },
+    { src: "/gallery/11.png", alt: "Souvenir 11", span: "row-span-2" },
+    { src: "/gallery/12.png", alt: "Souvenir 12", span: "row-span-2" },
+    { src: "/gallery/13.png", alt: "Souvenir 13", span: "row-span-2" },
 ]
 
 export const tracks = [
@@ -208,15 +211,29 @@ Junior`,
         avatar: "/messages/secret.png",
         text: `Joyeux anniversaire à toi, princesse … ❤️🙂
 
-Aujourd'hui est une journée particulière, parce qu'elle me donne une raison de t'écrire et, surtout, de prendre quelques instants pour te dire ce que je ressens vraiment.
+Aujourd’hui est une journée particulière, parce qu’elle me donne une raison de t’écrire et, surtout, de prendre quelques instants pour te dire ce que je ressens vraiment.
 
-Je te souhaite un merveilleux anniversaire. J'espère que cette nouvelle année de ta vie sera remplie de bonheur, de réussite, de paix, de belles rencontres, de beaux projets et de moments qui te feront sourire sincèrement.
+Je te souhaite un merveilleux anniversaire. J’espère que cette nouvelle année de ta vie sera remplie de bonheur, de réussite, de paix, de belles rencontres, de beaux projets et de moments qui te feront sourire sincèrement. Je te souhaite de recevoir tout l’amour et toute la douceur que tu mérites, parce que malgré tout ce qui a pu se passer entre nous, je n’ai jamais cessé de reconnaître la belle personne que tu es.
 
-Avec le temps, beaucoup de choses ont changé. Nous avons vécu des choses, nous avons pris des chemins différents, mais certaines personnes ont beau sortir de notre quotidien, elles ne sortent pas aussi facilement de notre cœur. Et tu fais partie de ces personnes-là.
+Avec le temps, beaucoup de choses ont changé. Nous avons vécu des choses, nous avons pris des chemins différents, et peut-être que la vie nous a éloignés pour certaines raisons. Mais je vais être honnête avec toi : certaines personnes ont beau sortir de notre quotidien, elles ne sortent pas aussi facilement de notre cœur. Et tu fais partie de ces personnes-là.
 
-Alors profite de cette journée, souris, fais la fête, laisse-toi célébrer et surtout n'oublie jamais la personne magnifique que tu es❤️
+Il m’arrive encore de repenser à nous, à nos moments, à nos discussions, à nos fous rires, à nos petites habitudes et même à ces détails qui semblaient insignifiants à l’époque mais qui, aujourd’hui, ont une valeur particulière pour moi. Je ne sais pas si tu y penses parfois aussi, mais moi, je garde une tendresse particulière pour tout ce qu’on a partagé.
 
-Joyeux anniversaire encore une fois doudou ❤️💍`,
+Je ne t’écris pas aujourd’hui pour remuer le passé ni pour te mettre une quelconque pression. Je voulais simplement profiter de ton anniversaire pour être sincère avec toi. Malgré la distance, malgré le temps et malgré tout ce qui a pu arriver, tu as encore une place particulière dans mon cœur. Et si je te souhaite ton anniversaire avec autant de sincérité, c’est parce que tu n’es pas devenue une personne quelconque pour moi.
+
+La vérité, c’est qu’une partie de moi aimerait pouvoir retrouver cette complicité qu’on avait, pouvoir te parler comme avant, rire avec toi, apprendre à nouveau à te connaître et peut-être découvrir une nouvelle version de nous. Je ne sais pas ce que la vie nous réserve, ni si nos chemins sont réellement destinés à se recroiser de cette manière… mais je sais que, quelque part en moi, cette envie existe encore.
+
+Peut-être que certaines histoires ne sont pas faites pour se terminer là où on pensait qu’elles allaient se terminer. Peut-être qu’il faut parfois du temps, de la distance et de la maturité pour comprendre certaines choses. Et peut-être que le temps nous permettra un jour de regarder notre histoire avec des yeux différents.
+
+En tout cas, aujourd’hui, je ne veux retenir que le meilleur et te souhaiter tout ce qu’il y a de plus beau. J’espère que tu seras heureuse, que tu réaliseras tes rêves et que tu seras entourée de personnes qui sauront te donner l’amour et le respect que tu mérites.
+
+Et si je dois être complètement honnête… oui, une partie de moi aimerait encore avoir une petite place dans ta vie. Pas forcément comme avant, pas forcément en essayant de forcer quoi que ce soit, mais simplement en laissant les choses se faire naturellement, si la vie nous en donne encore l’occasion.
+
+Alors profite de cette journée, souris, fais la fête, laisse-toi célébrer et surtout n’oublie jamais la personne magnifique que tu es❤️
+
+Joyeux anniversaire encore une fois doudou ❤️💍
+
+Et qui sait… peut-être que ce message ne sera pas seulement un message d’anniversaire, mais le début d’une nouvelle aventure 🤍❤️`,
     },
     {
         id: 12,
@@ -287,9 +304,11 @@ Passe une magnifique journée. Et merci d’être toi. Bisous.
 
     {
         id: 17,
-        name: "",
-        avatar: "/messages/.png",
-        text: ``,
+        name: "odje",
+        avatar: "/messages/odje.png",
+        text: `Joyeux anniversaire à toi MK 🥳❤️. Je suis très heureuse de te connaître et d’avoir partagé les cours, les moments de joie et les souvenirs avec toi. En ce jour spécial, je te souhaite beaucoup de bonheur, la santé, la réussite dans tes études et plein de belles surprises. Que Dieu te bénisse et t’accompagne dans tous tes projets. Profite bien de ta journée et reste toujours la belle personne que tu es. Joyeux anniversaire encore ! 🎂✨
+
+ODJE`,
     },
     {
         id: 18,
@@ -308,5 +327,78 @@ Passe une magnifique journée. Et merci d’être toi. Bisous.
         avatar: "/messages/angeDjokouri.png",
         text: `Joyeux anniversaire marikaaa que le seigneur te bénisse et qu'il t'accorde tout ce que ton cœur désir, en seulement quelques mois tu as su prendre une grande place dans mon cœur tu es une personne géniale et je suis très heureuse de t'avoir dans vie. 
         Je t'aime très très forttttt❤️.`,
+    },
+    {
+        id: 20,
+        name: "Elvira Morisson",
+        avatar: "/messages/elvira.png",
+        text: `A cette fille qui ne m’a jamais jugée, qui s’est montrée présente à chaque fois que j’avais besoin de confier à quelqu’un. À cette fille qui m’a vue pleurer, rire. À cette fille au grand cœur, qui mérite tout aussi d’être heureuse, aimée, respectée. Marie Karel❤️, l’une de mes meilleures rencontres à UMECI. En ce jour spécial qui est ton anniversaire, je te souhaite tout ce qu’il y a de meilleur sur cette terre car tu le mérites pour le cœur , la patience, la douceur que tu as. Tu es sans jugement et tu es sans doute la personne qui m’a plus écoutée dans cette fameuse période où rien n’allait dans ma vie et rien que pour ça je ne t’oublierai jamais. Que DIEU continue de guider chacun de tes pas et sache que tu es une personne incroyable. 
+Je t’aime énormément 
+
+ELVIRA MORISSON`,
+    },
+    {
+        id: 21,
+        name: "AP Parfait",
+        avatar: "/messages/unknow.png",
+        text: `
+Joyeux anniversaire à toi, ma fille de cœur, Marie Karel. 🎂❤️
+Il existe des enfants que la vie nous donne, et d’autres que le cœur choisit d’aimer profondément. Toi, Marie Karel, tu es entrée dans ma vie sans porter mon sang, mais tu as trouvé une place immense dans mon cœur, une place que personne ne pourra jamais prendre.
+En ce jour si spécial, je voudrais que tu saches combien ta présence est précieuse pour moi. Te voir grandir, avancer, sourire et devenir cette belle personne me remplit de fierté. Et même si je ne te le dis pas toujours, sache que je pense à toi, que je prie pour toi et que ton bonheur compte énormément à mes yeux.
+Si un jour la vie te fait douter de ta valeur, souviens-toi qu’il existe quelque part un père de cœur qui croit profondément en toi. Si tes pas deviennent lourds, souviens-toi que tu ne seras jamais seule. Mon affection, mes conseils et mes prières t’accompagneront toujours.
+Je demande à Dieu de protéger ton sourire, d’éloigner de toi les larmes de tristesse et de t’accorder une longue vie remplie d’amour, de santé, de réussite et de paix. Qu’Il transforme chacune de tes blessures en force et chacun de tes rêves en réalité.
+Merci d’être cette fille merveilleuse que mon cœur a choisie. Peu importe le temps, la distance ou les épreuves, tu resteras toujours ma fille de cœur, et je serai toujours fier de toi.
+Joyeux anniversaire, ma chère Marie Karel. Que cette nouvelle année de ta vie soit aussi belle que ton âme.
+Je t’aime très fort, ma fille. ❤️
+De la part du Papa comme la maman de Noura m'appelle 😅 Noura ce message s'adresse à toi aussi parce que tu es sa jumelle de  cœur 💓 joyeux anniversaire à vous mes Enfants les grandes de Charles et Eliora☺️`,
+    },
+    {
+        id: 22,
+        name: "Djamala Christ Eliel",
+        avatar: "/messages/christ-Eliel.png",
+        text: `Aujourd’hui, c’est l’anniversaire de mon bébé Marie Karel , mon écureuil adoré 🐿️❤️😂 !
+Depuis le jardin jusqu’à aujourd’hui, on en a vécu des choses 😂. Entre les taquineries du primaire, le fameux « écureuil » et nos petites bagarres jusqu’à maintenant, tu ne fais que me frapper et me maltraiter 😭… franchement, tu n’as pas changé 😭😂❤️.
+Je te souhaite un très joyeux anniversaire 🥳❤️. Que le Seigneur te bénisse, te protège et te fasse grandir chaque jour en sagesse et en grâce. Profite au maximum de ta journée et surtout… je pardonne un peu ton petit corps hein 😂, on va se calmer  sur les coups de poing maintenant 😹.
+Gros bisous bisous mon écureuil adoré bébé Karel❤️🐿️. Encore joyeux anniversaire ! 🥳 je t’aime gros comme ça 😚😚
+
+Djamala Christ_Eliel`,
+    },
+
+    {
+        id: 23,
+        name: "AC Jaures",
+        avatar: "/messages/jaures.png",
+        text: `🎉💫Joyeux anniversaire à toi MariKa 🥰 reste telle, que Dieu continue de te benir et de te donner la santé...je suis fière de la grande respo que tu es devenue 🤗Happy Birthday 🥰🥳
+
+Ac Jaures`,
+    },
+    {
+        id: 24,
+        name: "Dylan Kacou",
+        avatar: "/messages/dylan.png",
+        text: `Joyeux anniv Karel, mon amie Djantra
+Merci de me conseiller, même si je n'écoute pas
+Je te souhaite encore un joyeux anniversaire
+Longue vie élément 💗🤞🏾
+
+Dylan Kacou`,
+    },
+    {
+        id: 25,
+        name: "",
+        avatar: "/messages/.png",
+        text: ``,
+    },
+    {
+        id: 26,
+        name: "",
+        avatar: "/messages/.png",
+        text: ``,
+    },
+    {
+        id: 27,
+        name: "",
+        avatar: "/messages/.png",
+        text: ``,
     },
 ]
