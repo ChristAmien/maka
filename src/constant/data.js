@@ -20,6 +20,12 @@ export const photos = [
     { src: "/gallery/11.png", alt: "Souvenir 11", span: "row-span-2" },
     { src: "/gallery/12.png", alt: "Souvenir 12", span: "row-span-2" },
     { src: "/gallery/13.png", alt: "Souvenir 13", span: "row-span-2" },
+    { src: "/gallery/14.png", alt: "Souvenir 14", span: "row-span-2" },
+    { src: "/gallery/15.png", alt: "Souvenir 15", span: "row-span-2" },
+    { src: "/gallery/16.png", alt: "Souvenir 16", span: "row-span-2" },
+    { src: "/gallery/17.png", alt: "Souvenir 17", span: "row-span-2" },
+    { src: "/gallery/18.png", alt: "Souvenir 18"},
+
 ]
 
 export const tracks = [
@@ -80,6 +86,22 @@ export const messages = [
         text: "Salut Maka c'est Amien, ta mercon d'abord et joyeux anniversaire."
                 +"🙂❤️que Dieu te garde, qu'il te protège, qu'il continue de te combler de grâce comme il l'a fait durant toute ces années. Je tes connu ça fait pratiquement 1 ans maintenant je me suis découvert une version féminine de moi 😭ta mercon encore sache nous t'aimons tous encore plus Deep        " 
                 +"PS: Pardon reviens avec mon ami 😭🙏🏽",
+    },
+    {
+        id: 2,
+        name: "Mapii",
+        avatar: "/messages/mapiii.png",
+        text: `Tic tac tic tac…
+
+Parce que chaque 21 Septembre me rappelle que je suis une petite maman. Et oui! Que le temps passe tellement vite je m’en souvient encore je suis rentré dans ta vie à ta 10 ième bougie , année à partir de laquelle j’ai poursuivi chaque pas et chaque étape de ta vie . J’entends de nouveau ta voix innocente quand tu as porté pour la première fois ton bleu blanc. Ses moments où tu ne pouvais pas passer un instant de ta journée sans me voir et entendre ma voix. Pareil au instant quand un enfant se réveille et son premier reflex était de chercher sa maman. C’est à travers ses signes que j’ai compris que j’avais un bébé de plus qui s’ajoutait à mes frères . Pauvre papa inno et maman orphée leurs téléphones servaient de canal lorsque qu’une sentait 1mn l’absence de l’autre. Puis le temps a continué son chemin on en a vécu des épreuves ma petite . La première paire de lunettes où tu m’as fait déplacer spécialement à son arrivée pour que je vienne la voir sur ton visage . On a pas que partager des moments de joie mais aussi des moments sombres où le mental est mis à l’épreuve . Comme tes crises nocturnes d’asthme où on a pratiquement veiller, les nuits blanche pour le mal de dos … bref on vient de loin.
+
+Aujourd’hui à cette vingt deuxième bougie je marque instant avec toi pour remercier Dieu d’abord pour ta vie , pour tout ce qui a été accompli jusqu’ici et aussi confier les combats à venir . Ma prière à compter de cette année et pour le reste à venir soit que tu entres dans tes grâces , que tu accomplissent tes voeux les plus cher tout en sortant plus forte après chaque épreuve. Que la sagesse puisse t’animer au quotidien et que tu apprennes à moins rester dans ton coin, plus profiter de ceux autour de toi. N’abandonne surtout pas face aux difficultés mais aussi par dessus tout pardonne , libère ton cœur et aussi n’hésite pas à renouer les liens après des disputes. La vie est courte , je veux qu’à compter de ce jour tu te dise . Je vais vivre mes journées comme si j’étais pas sûre de voir la soirée, pour que tu profites de chaque instant et que tu n’ai aucument peu d’oser  .
+
+A ma petite princesse qui grandi sache que mon cœur n’a pas changé à ton égard , je deviens plus dire par moment pour ton bien et tu le sais ( chaque jour je te donne la raison derrière) , je serai toujours ton oreille à l’heure que tu veux , quand tu veux et où tu voudras . Tu mérite le bonheur et je te dis chaque jour la clé se trouve dans ta main .
+
+Soit heureuse en cette journée ne laisse rien t’attrister . Profite de ta bougie , ne perds aucun instant de ses 24h de ta naissance. 
+
+Bisous je t’aime`,
     },
     {
         id: 3,
@@ -385,20 +407,105 @@ Dylan Kacou`,
     },
     {
         id: 25,
-        name: "",
-        avatar: "/messages/.png",
-        text: ``,
+        name: "Maman Cecile",
+        avatar: "/messages/cecile.png",
+        text: `Que dire au bel ange que tu représentes pour ceux qui t'entourent☺️. 
+Tout d'abord Merci à notre Dieu tout puissant puis à maman et papa pour ce beau jour qui t'a vu naître.
+
+Marie Karelle, on dis qu'il existe des anges parmis les hommes et je pense que tu en es un. Juste te dire merci pour ta douceur et ce cœur tendre et aimant 🤍. 
+Je te souhaite un merveilleux anniversaire ma princesse, que ce nouvel âge t'apporte la paix et la joie divine et que la grâce de Dieu se manifeste abondamment dans ta vie à travers ce que ton cœur désire.
+
+Tu es cher à mon cœur ma puce et je t'aime très fort 💓
+
+Maman Cecile`,
     },
     {
         id: 26,
-        name: "",
-        avatar: "/messages/.png",
-        text: ``,
+        name: "Marc Aurel",
+        avatar: "/messages/Marc-Aurel.png",
+        text: `Aujourd’hui 21 septembre 2026 une date mais pas comme les autres. C’est une date qui a vu naître une personne saine ❤️🥹,une personne vraiment exceptionnelle,une personne intelligente. Cette une personne vaillante et qui veille au bonheur de tous ,qui aime beaucoup son prochain et cette personne n’est que toi MARIE KAREL la Grande Soeur que tout le monde aimerait avoir.
+En ce jour si spécial, je voudrais te souhaiter tout le bonheur du monde.Que Dieu t’accorde tout ce que ton cœur désire ,qu’il te comble de bonté et de grâce , qu’il te protège ,qu’il t’ouvre les portes auquel tu voudrais accéder et qu’il termine ce qu’il a commencé dans ta vie. Tu es une belle personne que ça soit à l’intérieur ainsi qu’à l’extérieur .
+Merci pour tout ce que tu as fait pour nous.
+Nous t’aimons beaucoup.
+Encore joyeux anniversaire à toi 🎊🎊❤️
+
+
+Ton petit frère chérie MARC AUREL ❤️`,
     },
     {
         id: 27,
+        name: "Kevin",
+        avatar: "/messages/kevin.png",
+        text: `Joyeux anniversaire, Marie Karel! ❤️🎂🥳
+
+En ce jour si spécial, je rends grâce à Dieu pour ta vie et Lui demande de continuer à te protéger, à te guider et à te combler de Ses bénédictions. 🙏🏽✨
+
+Je te souhaite tout le bonheur que ton cœur désire. ❤️
+
+En ce jour qui célèbre ta naissance, je souhaite que ta vie soit remplie de joie, de paix, d’amour, de réussite et de belles opportunités. Que Dieu t’accorde une longue vie et une bonne santé, et qu’Il réalise les projets que tu portes dans ton cœur. 🌹🙏🏽
+
+Profite pleinement de ta journée, souris, sois heureuse et n’oublie jamais la belle personne que tu es. 🎉❤️
+
+Joyeux anniversaire encore une fois, Marie Carelle ! 🥳🎂❤️ Que Dieu te bénisse abondamment aujourd’hui et toujours. 🙏🏽✨
+
+Kevin`,
+    },
+    {
+        id: 28,
+        name: "AC Pierre Junior",
+        avatar: "/messages/pierre.png",
+        text: `Je ne serai pas dithyrambique, mais j’userai de la langue de Moliere pour être le plus juste. 
+
+Marie-Karel, belle âme avec une bonté comparable à la douceur du soleil 🌞 tôt le matin. À travers ta bienveillance t’as su être un motivateur tant pour les enfants que pour tes semblables et plus, toujours à distribuer de l’amour. 
+
+DIEU ne prends pas de crédit, mais il rembourse crédits, pour te dire que tout le bien que tu partage dans ton quotidien se solderas par une belle récompense à la hauteur de tout le bien que tu fait autour de toi. 
+
+En ce jour qui commémore ta naissance, remercier le bon DIEU de nous avoir mis sur le même chemin que toi dans cette vie. Car te connaître et partager des moments avec ta personne c’est plus que du story Time, , c’est un art, une histoire de vie ou il n’y a de place pour la négative.
+
+AC pierre junior`,
+    },
+    {
+        id: 29,
+        name: "Mamoune M.A",
+        avatar: "/messages/.png",
+        text: `Marie-karel,En peu de temps, j’ai eu l’occasion de découvrir une jeune fille intelligente, pleine de valeurs, engagée et surtout étonnamment mature pour son âge. Ta façon de donner de ton temps et de ton énergie aux enfants, ton implication dans ce que tu fais et cette belle lumière que tu dégages ne passent pas inaperçues.
+La vie te réserve encore tellement de choses, alors je te souhaite de grandir sans jamais perdre cette belle simplicité, cette générosité et cette force qui te caractérisent. Que Dieu accompagne chacun de tes pas, qu’Il protège tes rêves, mette sur ton chemin les bonnes personnes et te donne la sagesse de reconnaître les belles opportunités lorsqu’elles se présenteront à toi. 
+Et puis, puisque tu m’as adoptée comme une petite nièce depuis que nous nous connaissons, laisse-moi te dire quelque chose de très important “tata” 😂 : ne grandis pas trop vite ! Profite de ta jeunesse, ose, découvre, fais des erreurs, relève-toi, aime, apprends… mais surtout, reste fidèle à la belle personne que tu es.
+Je te souhaite un très heureux anniversaire, Marie_k ❤️ Que cette nouvelle année de ta vie soit douce, riche en belles surprises et remplie de raisons de sourire.
+Avec toute mon affection de tata.
+
+Mamoune M. A`,
+    },
+    {
+        id: 30,
+        name: "Theresa",
+        avatar: "/messages/theresa.png",
+        text: `Joyeux anniversaire à mon bébé MK ❤️🥹✨
+Que Dieu te couvre de Sa grâce, qu’Il protège ton cœur et qu’Il t’accorde tout ce que tu désires en secret. Que cette nouvelle année soit remplie de paix, de bonheur véritable, de belles opportunités et de bénédictions qui dépasseront tes attentes. 🙏🏽❤️
+Je prie pour que tu ne manques jamais d’amour, que tes rêves prennent vie et que tu aies toujours une raison de sourire, même dans les moments difficiles. Tu es précieuse et tu mérites tout ce qu’il y a de plus beau dans cette vie. 🥹💕
+Je t’aime énormément, mon bébé MK. Que Dieu te garde encore longtemps auprès de nous. Joyeux anniversaire, ma perle ! ❤️🎂✨`,
+    },
+    {
+        id: 31,
+        name: "Esli",
+        avatar: "/messages/esli.png",
+        text: `Hey Marie-Carène, J’espère que tu vas bien et que mon message te trouve en bonne santé.
+
+En ce lundi 21 septembre 2026, jour de ton anniversaire, je tiens à te souhaiter un très joyeux anniversaire et à t’adresser tous mes vœux de bonheur et de réussite.
+
+Tu es une très personne importante pour moi, l’une des personnes avec qui j’aime le plus échangé et qui me comprend le plus. Merci encore pour tout ce que tu as fait pour moi et pour ta présence.
+
+Tu es une amie qui m’est très, très chère. Que Dieu te bénisse, te comble de Ses grâces et t’accorde tout ce que ton cœur désire.
+
+Profites bien de ta journée. ❤️🎉
+
+Esli`,
+    },
+    {
+        id: 32,
         name: "",
         avatar: "/messages/.png",
         text: ``,
     },
+    
 ]
