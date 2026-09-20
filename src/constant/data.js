@@ -503,9 +503,15 @@ Esli`,
     },
     {
         id: 32,
-        name: "",
+        name: "Tata Pascale",
         avatar: "/messages/.png",
-        text: ``,
+        text: `En ce jour béni où tu célèbres une année de plus, je prie pour que le Très-Haut déverse sur toi ses grâces les plus abondantes. 
+Prendre de l’âge est un privilège, mais grandir en sagesse est une bénédiction.
+Que cette nouvelle bougie marque le début d'une ère de discernement, de paix intérieure et de maturité spirituelle. Que Dieu guide chacun de tes pas, qu’Il illumine ton chemin et qu’Il t'accorde la force de transformer chaque épreuve en leçon de vie.
+Joyeux anniversaire Marie Karel ! 
+Puisse ton cœur s'ouvrir à de plus grandes responsabilités tout en gardant la pureté de tes rêves.
+
+Tata pascale`,
     },
     
 ]
